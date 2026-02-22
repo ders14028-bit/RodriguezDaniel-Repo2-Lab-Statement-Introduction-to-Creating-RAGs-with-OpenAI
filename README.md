@@ -1,0 +1,1 @@
+# RodriguezDaniel-Repo2-Lab-Statement-Introduction-to-Creating-RAGs-with-OpenAI
